@@ -1,0 +1,30 @@
+body {
+    background-image: url("../images/congruent_pentagon.png");
+}
+
+nav {
+    background-color: #ffffff!important;
+    opacity: 0.8;
+}
+
+.brand-logo {
+    margin-left: 10px;
+}
+
+.brand-logo img {
+    max-width: 60px;
+}
+
+#details img {
+    max-width: 150px;
+}
+
+#details img#posterImg{
+    cursor:pointer;
+}
+
+.error {
+    border-bottom: 1px solid red !important;
+    box-shadow: none;
+}
+
